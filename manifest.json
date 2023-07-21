@@ -5,7 +5,5 @@
     "description": "A rounds map mod intended to make high quality (and high object) rounds maps to imporve the game.",
     "dependencies": [
         "olavim-MapsExtended-1.2.6"
-        "BepInEx-BepInExPack_ROUNDS-5.4.1900"
-        "willis81808-UnboundLib-3.2.10"
     ]
 }
