@@ -1,6 +1,6 @@
 {
     "name": "HalltoHeckMaps",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/thunderstore-io",
     "description": "A rounds map mod intended to make high quality (and high object) rounds maps to imporve the game.",
     "dependencies": [
